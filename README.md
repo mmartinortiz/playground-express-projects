@@ -18,4 +18,4 @@ Get the last release of [CircuitPython](https://circuitpython.org/board/circuitp
 
 Open `mu-editor` from the command line once the Playground Express is connected to the comptuter, and copy the code of any of the projects into the `code.py` file of the Mu Editor.
 
-- [Random led colours](./random-led-colours/Readme.md)
+- [Random led colours](./random-led-colours)

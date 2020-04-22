@@ -1,3 +1,6 @@
+"""
+Set a random colour (red, green or blue) to each led on the Playground
+"""
 import time
 from random import choice
 from adafruit_circuitplayground import cp
