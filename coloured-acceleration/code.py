@@ -30,3 +30,8 @@ while True:
 
     # Set the colour for all the leds related to the x, y and z values
     cp.pixels.fill(((red + abs(int(x))), (green + abs(int(y))), (blue + abs(int(z)))))
+
+    if cp.button_a:
+        cp.play_tone(262, 1)
+    if cp.button_b:
+        cp.play_tone(294, 1)
